@@ -1,0 +1,23 @@
+
+html,
+body {
+  font-family: 'matrix', monospace;
+  background: #212121;
+  height: 98%;
+}
+.container {
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.text {
+  font-weight: 1000;
+  font-size: 45px;
+  color:green;
+  text-decoration: wavy;
+}
+.dud {
+  color: white;
+}
